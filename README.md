@@ -8,5 +8,11 @@ Word Cloud is a data visualization technique used for representing text data in 
 For generating word cloud in Python, modules needed are – matplotlib, pandas and wordcloud. To install these packages, run the following commands :
 
 **pip install matplotlib
+
+
+
 pip install pandas
+
+
+
 pip install wordcloud**
